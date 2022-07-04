@@ -1,1 +1,1 @@
-# cloud-capacity-manager-Infrastructure-602AZ
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Tomasz-Grzybowski/ccm-602)
