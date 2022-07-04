@@ -11,3 +11,6 @@ if you have amplify CLI installed you can also pull this repository by writing:
 
 Amplify CLI installation process:
 https://docs.amplify.aws/cli/start/install/
+
+
+Folder CustomerCFN contains IaC script for customer with the IAM role to be created before starting using the application.
