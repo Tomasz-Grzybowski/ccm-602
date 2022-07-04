@@ -1,1 +1,5 @@
+In order to deploy this repository to your amplify console, please click the button below.
 [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/Tomasz-Grzybowski/ccm-602)
+
+if you have amplify CLI installed you can also pull this repository by writing:
+[code]amplify init --app https://github.com/Tomasz-Grzybowski/ccm-602[/code]
